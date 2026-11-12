@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zuywgzeg2)qwhs&_p^i5f_6_r%47!(7w1%_vlkyenqhf2t6lve
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+LOGIN_URL = 'login'
 AUTH_USER_MODEL = 'store.User'
 
 # Application definition
